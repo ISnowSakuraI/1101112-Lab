@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Diamo\\source\\repos\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,37 +58,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductPage.xaml",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\ProductPage.xaml",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductPage.xaml",
               "RelativeToolTip": "Lab3\\Lab3\\ProductPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-24T01:34:12.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\ProductListViewModel.cs",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductListViewModel.cs*",
-              "RelativeToolTip": "Lab3\\Lab3\\ProductListViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductListViewModel.cs",
+              "RelativeToolTip": "Lab3\\Lab3\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:33:53.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:33:53.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\LoginViewModel.cs",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "Lab3\\Lab3\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:19:19.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:19:19.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\LoginPage.xaml.cs",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\LoginPage.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:18:39.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:18:39.01Z"
             },
             {
               "$type": "Document",
@@ -120,10 +117,9 @@
               "RelativeDocumentMoniker": "Lab3\\Lab3\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\LoginPage.xaml",
               "RelativeToolTip": "Lab3\\Lab3\\LoginPage.xaml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-24T01:18:29.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:18:29.436Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\ProductPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:34:27.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:34:27.89Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\Models\\Product.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA3wA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:33:24.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:33:24.997Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:33:12.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:33:12.763Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:19:52.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:19:52.188Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-24T01:19:46.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:19:46.232Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:21:07.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:21:07.546Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "Lab3\\Lab3\\GettingStarted.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-24T01:18:01.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T01:18:01.315Z"
             }
           ]
         }

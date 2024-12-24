@@ -20,3 +20,4 @@ C:\Users\Diamo\source\repos\Lab3\Lab3\Lab3\obj\Debug\netstandard2.0\Lab3.dll
 C:\Users\Diamo\source\repos\Lab3\Lab3\Lab3\obj\Debug\netstandard2.0\refint\Lab3.dll
 C:\Users\Diamo\source\repos\Lab3\Lab3\Lab3\obj\Debug\netstandard2.0\Lab3.pdb
 C:\Users\Diamo\source\repos\Lab3\Lab3\Lab3\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\Diamo\source\repos\Lab3\Lab3\Lab3\obj\Debug\netstandard2.0\Lab3.sourcelink.json

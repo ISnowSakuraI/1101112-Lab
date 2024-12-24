@@ -57,6 +57,7 @@
             <ContentPage Title="ListView" BackgroundColor="Azure">
                 <StackLayout>
                     <Label Text="B6501747" FontSize="20"/>
+                    <Label Text="Welcome to Xamarin Color" FontSize="20" HorizontalOptions="Center"/>
                     <ListView x:Name="lstview" ItemsSource="{Binding Colors}" ItemSelected="lst_ItemSelected"/>
                     <Button x:Name="Add" Text="ADD" Clicked="AddList_Clicked"/>
                     <Button x:Name="Remove" Text="DELETE" Clicked="DelList_Clicked"/>
