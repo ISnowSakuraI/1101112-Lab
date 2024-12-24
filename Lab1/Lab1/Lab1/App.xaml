@@ -1,0 +1,38 @@
+﻿<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab1.App">
+    <Application.MainPage>
+        <ContentPage Title="Calculation Page" BackgroundColor="Azure">
+            <Grid ColumnSpacing="10" RowSpacing="10" Padding="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="B6501747" FontSize="20" Grid.Row="0" Grid.ColumnSpan="2"/>
+                <Image Source="content.jpg" VerticalOptions="Center" Grid.Row="1" Grid.ColumnSpan="2"/>
+                <Entry x:Name="EntryX" Placeholder="Input value of x" Keyboard="Numeric" Grid.Row="2" Grid.ColumnSpan="2"/>
+                <Entry x:Name="EntryY" Placeholder="Input value of y" Keyboard="Numeric" Grid.Row="3" Grid.ColumnSpan="2"/>
+                <Entry x:Name="EntryName" Placeholder="Input your name" Grid.Row="4" Grid.ColumnSpan="2"/>
+                <Button Text="SUBMIT" Clicked="OnSubmitClicked" BackgroundColor="Green" TextColor="White" Grid.Row="5" Grid.Column="0"/>
+                <Button Text="CANCEL" Clicked="OnCancelClicked" BackgroundColor="Red" TextColor="White" Grid.Row="5" Grid.Column="1"/>
+                <Label Text="What's your sex?" Grid.Row="6" Grid.ColumnSpan="2"/>
+                <StackLayout Orientation="Horizontal" Spacing="20" Grid.Row="7">
+                    <RadioButton x:Name="RadioMale" Content="Male"/>
+                    <RadioButton x:Name="RadioFemale" Content="Female"/>
+                </StackLayout>
+                <Label x:Name="ResultLabel" Text="X * Y = ?" FontSize="18" TextColor="Black" Margin="10,20,0,0" Grid.Row="8" Grid.ColumnSpan="2"/>
+            </Grid>
+        </ContentPage>
+    </Application.MainPage>
+</Application>
