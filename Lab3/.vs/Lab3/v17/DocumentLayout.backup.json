@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Diamo\\source\\repos\\Lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|solutionrelative:lab3\\lab3\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01E2CBE1-D007-47C5-8B0D-3911B61DE9B9}|Lab3\\Lab3\\Lab3.csproj|c:\\users\\diamo\\source\\repos\\lab3\\lab3\\lab3\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductPage.xaml",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\ProductPage.xaml",
@@ -75,15 +75,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\ProductListViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\ProductListViewModel.cs",
               "RelativeToolTip": "Lab3\\Lab3\\ProductListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T01:33:53.91Z"
+              "WhenOpened": "2024-12-24T01:33:53.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab3\\Lab3\\Lab3\\LoginPage.xaml",
               "RelativeDocumentMoniker": "Lab3\\Lab3\\LoginPage.xaml",
