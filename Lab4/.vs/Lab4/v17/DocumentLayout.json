@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Diamo\\source\\repos\\Lab4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\registerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\registerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,7 +155,7 @@
       "RelativeMoniker": "D:0:0:{6DF3A88B-5ABA-49F7-9356-2C3823D89266}|Lab4\\Lab4\\Lab4.csproj|solutionrelative:lab4\\lab4\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5894532F-A018-4423-A7BD-A60C8584815D}|Lab4\\Lab4.Android\\Lab4.Android.csproj|c:\\users\\diamo\\source\\repos\\lab4\\lab4\\lab4.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5894532F-A018-4423-A7BD-A60C8584815D}|Lab4\\Lab4.Android\\Lab4.Android.csproj|C:\\Users\\Diamo\\source\\repos\\Lab4\\lab4\\lab4.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5894532F-A018-4423-A7BD-A60C8584815D}|Lab4\\Lab4.Android\\Lab4.Android.csproj|solutionrelative:lab4\\lab4.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -170,50 +170,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDetailsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
-              "RelativeToolTip": "Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA+wB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:19:30.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductPage.xaml.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ProductPage.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:52:30.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductListViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductListViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ProductListViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:52:22.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Models\\CartItem.cs",
@@ -226,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Models\\Item.cs",
@@ -239,85 +226,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Product.cs",
               "RelativeToolTip": "Lab4\\Lab4\\Models\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:52:19.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductPage.xaml",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml",
-              "RelativeToolTip": "Lab4\\Lab4\\ProductPage.xaml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwDUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\LoginPage.xaml",
+              "RelativeToolTip": "Lab4\\Lab4\\LoginPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T15:52:24.544Z",
+              "WhenOpened": "2025-01-05T15:51:12.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDetailsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductDetailsPage.xaml",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml",
-              "RelativeToolTip": "Lab4\\Lab4\\ProductDetailsPage.xaml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwDEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T16:19:12.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Login.cs",
-              "RelativeToolTip": "Lab4\\Lab4\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:51:09.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterViewModel.cs",
-              "RelativeToolTip": "Lab4\\Lab4\\RegisterViewModel.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:55:28.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Lab4",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\Lab4.csproj",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
-              "RelativeToolTip": "Lab4\\Lab4\\Lab4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-05T15:48:55.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\LoginPage.xaml.cs",
@@ -330,7 +265,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
+              "RelativeToolTip": "Lab4\\Lab4\\ProductDetailsPage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:19:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductPage.xaml",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductPage.xaml",
+              "RelativeToolTip": "Lab4\\Lab4\\ProductPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T15:52:24.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\ProductDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ProductDetailsPage.xaml",
+              "RelativeToolTip": "Lab4\\Lab4\\ProductDetailsPage.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T16:19:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Models\\Login.cs",
+              "RelativeToolTip": "Lab4\\Lab4\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:51:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterViewModel.cs",
+              "RelativeToolTip": "Lab4\\Lab4\\RegisterViewModel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:55:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Lab4.csproj",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
+              "RelativeDocumentMoniker": "Lab4\\Lab4\\Lab4.csproj",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
+              "RelativeToolTip": "Lab4\\Lab4\\Lab4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T15:48:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "RegisterPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\RegisterPage.xaml.cs",
@@ -339,19 +352,6 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:54:54.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "Lab4\\Lab4\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\LoginPage.xaml",
-              "RelativeToolTip": "Lab4\\Lab4\\LoginPage.xaml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T15:51:12.998Z",
               "EditorCaption": ""
             },
             {
@@ -369,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RegisterPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\RegisterPage.xaml",
               "RelativeDocumentMoniker": "Lab4\\Lab4\\RegisterPage.xaml",
@@ -427,7 +427,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Views\\NewItemPage.xaml",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Views\\NewItemPage.xaml",
               "RelativeToolTip": "Lab4\\Lab4\\Views\\NewItemPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-05T15:51:49.936Z",
               "EditorCaption": ""
@@ -466,7 +466,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ViewModels\\NewItemViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ViewModels\\NewItemViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ViewModels\\NewItemViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:52:10.47Z",
               "EditorCaption": ""
@@ -479,7 +479,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Services\\MockDataStore.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Services\\MockDataStore.cs",
               "RelativeToolTip": "Lab4\\Lab4\\Services\\MockDataStore.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:51:42.195Z",
               "EditorCaption": ""
@@ -492,7 +492,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:51:35.466Z",
               "EditorCaption": ""
@@ -505,7 +505,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Views\\LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Views\\LoginPage.xaml.cs",
               "RelativeToolTip": "Lab4\\Lab4\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:51:27.603Z",
               "EditorCaption": ""
@@ -518,7 +518,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Views\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Views\\LoginPage.xaml",
               "RelativeToolTip": "Lab4\\Lab4\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-05T15:51:21.893Z",
               "EditorCaption": ""
@@ -531,7 +531,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ViewModels\\ItemsViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ViewModels\\ItemsViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ViewModels\\ItemsViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:50:56.632Z",
               "EditorCaption": ""
@@ -557,7 +557,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ViewModels\\ItemDetailViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ViewModels\\ItemDetailViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ViewModels\\ItemDetailViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:50:34.787Z",
               "EditorCaption": ""
@@ -570,7 +570,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Views\\ItemDetailPage.xaml.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Views\\ItemDetailPage.xaml.cs",
               "RelativeToolTip": "Lab4\\Lab4\\Views\\ItemDetailPage.xaml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:50:27.725Z",
               "EditorCaption": ""
@@ -583,7 +583,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\Services\\IDataStore.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\Services\\IDataStore.cs",
               "RelativeToolTip": "Lab4\\Lab4\\Services\\IDataStore.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:50:13.975Z",
               "EditorCaption": ""
@@ -596,7 +596,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\ViewModels\\BaseViewModel.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\ViewModels\\BaseViewModel.cs",
               "RelativeToolTip": "Lab4\\Lab4\\ViewModels\\BaseViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:50:01.616Z",
               "EditorCaption": ""
@@ -622,7 +622,7 @@
               "RelativeDocumentMoniker": "Lab4\\Lab4\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab4\\Lab4\\Lab4\\App.xaml.cs",
               "RelativeToolTip": "Lab4\\Lab4\\App.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T15:49:44.049Z",
               "EditorCaption": ""

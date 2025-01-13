@@ -1,0 +1,41 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab5.Views.EditPage"
+             Title="Update Page"
+             BackgroundColor="Beige">
+    <StackLayout Padding="20">
+        <!-- Form Fields -->
+        <StackLayout Spacing="10">
+            <!-- ID -->
+            <Entry x:Name="IdEntry" Placeholder="ID" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- First Name -->
+            <Entry x:Name="FirstNameEntry" Placeholder="First Name" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Last Name -->
+            <Entry x:Name="LastNameEntry" Placeholder="Last Name" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Email -->
+            <Entry x:Name="EmailEntry" Placeholder="Email" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Password -->
+            <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Confirm Password -->
+            <Entry x:Name="ConfirmPasswordEntry" Placeholder="Confirm Password" IsPassword="True" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Date of Birth -->
+            <Label Text="Date Of Birth" TextColor="Black" FontSize="16" />
+            <DatePicker x:Name="DateOfBirthPicker" Format="d" BackgroundColor="Beige" TextColor="Black" />
+
+            <!-- Address -->
+            <Entry x:Name="AddressEntry" Placeholder="Address" BackgroundColor="Beige" TextColor="Black" />
+        </StackLayout>
+
+        <!-- Buttons -->
+        <StackLayout Orientation="Horizontal" Spacing="10" Margin="0,20,0,0">
+            <Button Text="OK" BackgroundColor="#BDBDBD" TextColor="Black" Clicked="OnSaveClicked" />
+            <Button Text="CLEAR" BackgroundColor="#BDBDBD" TextColor="Black" Clicked="OnClearClicked" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
