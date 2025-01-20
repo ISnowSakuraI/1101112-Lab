@@ -25,7 +25,7 @@ namespace Lab4
         {
             LoginCommand = new Command(() =>
             {
-                DisplayText = $"Username: {Login.Email} Password: {Login.Password}";
+                DisplayText = $"userName: {Login.Email} Password: {Login.Password}";
             });
 
             ClearCommand = new Command(() =>

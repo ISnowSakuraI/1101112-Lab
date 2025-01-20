@@ -8,3 +8,5 @@ Lab 3 - MVVM
 Lab 4 - XAML & StylesFile
 
 Lab 5 - SQLite & Sensors
+
+Lab 6 - APIs

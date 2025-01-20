@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Diamo\\source\\repos\\Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\displaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\displaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\displaypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\displaypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\displaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\displaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|c:\\users\\diamo\\source\\repos\\lab5\\lab5\\lab5\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{092870BF-7BAE-4A29-BDE6-610A9496E830}|Lab5\\Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,8 +65,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -82,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GettingStarted.txt",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\GettingStarted.txt",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\GettingStarted.txt",
@@ -95,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RegistrationPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\RegistrationPage.xaml",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\RegistrationPage.xaml",
@@ -108,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\Models\\Database.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\Models\\Database.cs",
@@ -121,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\App.xaml.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\App.xaml.cs",
@@ -134,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DisplayPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\DisplayPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\DisplayPage.xaml.cs",
@@ -148,19 +152,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Lab5\\Lab5\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\MainPage.xaml",
+              "RelativeToolTip": "Lab5\\Lab5\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T07:35:51.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RegistrationPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\RegistrationPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\RegistrationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\RegistrationPage.xaml.cs*",
-              "RelativeToolTip": "Lab5\\Lab5\\RegistrationPage.xaml.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAnwE4AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "Lab5\\Lab5\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAnwEsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T07:20:13.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\Models\\Item.cs",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EditPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\EditPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\EditPage.xaml.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EditPage.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\EditPage.xaml",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\EditPage.xaml",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\App.xaml",
               "RelativeDocumentMoniker": "Lab5\\Lab5\\App.xaml",
@@ -208,19 +225,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-13T07:36:04.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Lab5\\Lab5\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Diamo\\source\\repos\\Lab5\\Lab5\\Lab5\\MainPage.xaml",
-              "RelativeToolTip": "Lab5\\Lab5\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-13T07:35:51.614Z",
               "EditorCaption": ""
             },
             {
